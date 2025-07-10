@@ -1,5 +1,5 @@
 transformers
 accelerate
 fire
-peft==0.2.0
+peft==0.16.0
 gradio
